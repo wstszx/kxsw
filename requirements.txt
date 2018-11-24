@@ -68,4 +68,3 @@ websocket-client==0.54.0
 Werkzeug==0.14.1
 wrapt==1.10.11
 zope.interface==4.6.0
-cffi==1.1.0
